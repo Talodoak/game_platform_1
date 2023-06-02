@@ -1,0 +1,12 @@
+# Add files here to ignore them from prettier formatting
+
+/dist
+/coverage
+
+/packages/grpc-proto
+
+*.graphql
+package.json
+tsconfig.base.json
+nx.json
+workspace.json
